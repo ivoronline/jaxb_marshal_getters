@@ -1,7 +1,7 @@
 import javax.xml.bind.*;
 import java.io.File;
 
-public class Test {
+public class Marshal {
 
   public static void main(String[] args) throws JAXBException {
 
